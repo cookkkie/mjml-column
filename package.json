@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "name": "mjml-column",
+        "raw": "mjml-column@^2.0.7",
+        "rawSpec": "^2.0.7",
+        "scope": null,
+        "spec": ">=2.0.7 <3.0.0",
+        "type": "range"
+      },
+      "/Users/MacbookPerso/mjml/packages/mjml"
+    ]
+  ],
+  "_from": "mjml-column@>=2.0.7 <3.0.0",
+  "_id": "mjml-column@2.0.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/mjml-column",
+  "_nodeVersion": "4.4.5",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/mjml-column-2.0.7.tgz_1468229516727_0.6398663516156375"
+  },
+  "_npmUser": {
+    "email": "hi@mjml.io",
+    "name": "mjml"
+  },
+  "_npmVersion": "3.9.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "mjml-column",
+    "raw": "mjml-column@^2.0.7",
+    "rawSpec": "^2.0.7",
+    "scope": null,
+    "spec": ">=2.0.7 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mjml-column/-/mjml-column-2.0.7.tgz",
+  "_shasum": "8bbde78d838744c07b3e24108d22768deb727e39",
+  "_shrinkwrap": null,
+  "_spec": "mjml-column@^2.0.7",
+  "_where": "/Users/MacbookPerso/mjml/packages/mjml",
+  "bugs": {
+    "url": "https://github.com/mjmlio/mjml/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "mjml-core": "^2.3.0",
+    "react": "^15.1.0"
+  },
+  "description": "mjml-column",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8bbde78d838744c07b3e24108d22768deb727e39",
+    "tarball": "https://registry.npmjs.org/mjml-column/-/mjml-column-2.0.7.tgz"
+  },
+  "homepage": "https://mjml.io",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "email": "hi@mjml.io",
+      "name": "mjml"
+    }
+  ],
+  "name": "mjml-column",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjmlio/mjml.git"
+  },
+  "scripts": {},
+  "version": "2.0.7"
+}
